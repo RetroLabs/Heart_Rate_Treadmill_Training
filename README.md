@@ -9,8 +9,9 @@ collected on the ESP32 will be used to automate the speed of the treadmill. The 
 training. The user will also be able to set the top speed they want to train at and how fast they want the treadmill to slow down
 as thier heart rate reaches the target amount. 
 
-This project will be completed as simplisically as possible for a user with some programming expierence. I'll be using the 
-Mosquitto MQTT broker, programming the ESP32 with Arduino code and programming a data logger with python on a laptop. 
+This project will be completed as simplisically as possible for a user with some programming expierence and soldering to be
+able to complete. I'll be using the Mosquitto MQTT broker, programming the ESP32 with Arduino code and programming a data logger
+with python on a laptop. 
 
 ### Getting Started
 
