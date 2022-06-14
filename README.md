@@ -33,7 +33,7 @@ https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
 
 - install graphana
 
-https://www.grafana.com 
+https://grafana.com/grafana/download
 
 I use this for fancy graphs to track the data. Once installed, open web browser and open localhost:3000 and login with admin admin
 
