@@ -13,7 +13,7 @@ This project will be completed as simplisically as possible for a user with some
 able to complete. I'll be using the Mosquitto MQTT broker, programming the ESP32 with Arduino code and programming a data logger
 with python on a laptop. 
 
-### Getting Started
+## Software Needed
 
 - Install Mosquitto Broker
 
@@ -31,8 +31,14 @@ https://www.arduino.cc/en/software
 Add ESP32 to Arduino IDE 
 https://docs.espressif.com/projects/arduino-esp32/en/latest/installing.html
 
+- install graphana
 
-## Hardware 
+grafana.com 
+
+I use this for fancy graphs to track the data. Once installed, open web browser and open localhost:3000 and login with admin admin
+
+
+## Hardware Need
 
 - ESP32 devkit C
 
